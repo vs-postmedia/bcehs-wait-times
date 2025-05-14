@@ -1,7 +1,7 @@
 # bcehs-wait-times
 Ambulance response times for B.C. Emergency Health Services, by event type, 2018-2024. See included fact sheet for detailed definitions of call types.
 
-This information was compiled from multiple FOIPPA requests to [Provincial Health Service Authority](http://www.phsa.ca/).
+This information was compiled from multiple FOIPPA requests to British Columbia’s [Provincial Health Service Authority](http://www.phsa.ca/).
 
 ## Data Dictionary
 | Variable | Format | Description 
