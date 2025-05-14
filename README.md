@@ -1,12 +1,11 @@
 # bcehs-wait-times
 Ambulance response times for B.C. Emergency Health Services, by event type, 2018-2024. See included fact sheet for detailed definitions of call types.
 
-This information was compiled from multiple FOIPPA requests to Providence Health Service Authority .
+This information was compiled from multiple FOIPPA requests to [Provincial Health Service Authority](http://www.phsa.ca/).
 
 ## Data Dictionary
 | Variable | Format | Description 
 | --- | --- | --- |
-| community_name | data_type | details
 | year | int | Reporting year
 | events-total | int | Total number of calls
 | events-red_purple | int | Number of red/purple calls (immediately life threatening or time critical)
