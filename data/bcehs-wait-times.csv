@@ -1,4 +1,4 @@
-community,year,events-total,events-red,events-orange,events-yellow,total-seconds-red,total-seconds-orange,total-seconds-yellow
+community,year,events-total,events-red_purple,events-orange,events-yellow,media-seconds-red_purple,median-seconds-orange,median-seconds-yellow
 Vancouver,2024,85129,38592,24768,20065,641,"1,221","2,522"
 Vancouver,2023,84965,36165,27332,19300,652,"1,356","3,164"
 Vancouver,2022,75106,28357,25773,19817,671,"1,293","2,933"
